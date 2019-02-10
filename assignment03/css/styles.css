@@ -16,6 +16,7 @@ footer{ grid-column: 1/2
  }
 
  h2 {
+   font-family: Verdana, sans-serif;
    font-style: normal;
    font weight: 800;
    border style: outset;
