@@ -1,0 +1,49 @@
+.container
+{ margin: 0 auto;
+width: 90%;
+max-width: 960px;
+display: grid;
+grid-template-columns: 280px 1fr 200px;
+}
+
+header {
+	grid-column: 1/2 ;
+}
+
+footer{ grid-column: 1/2
+ }
+
+ h2 {
+   font-style: normal;
+   font weight: 800;
+   border style: outset;
+   border width: thick;
+   color: red;
+}
+
+div {
+   max-width: 800px;
+   font-size: 16px;
+   font-family: Arial, Helvetica, sans-serif;
+   line-height: 1.5em
+   color: black;
+}
+
+h1 { 
+   color : black; 
+   border-bottom: solid;
+   border-bottom-color: green ;
+   border-bottom-width: 2px;
+   text-align: center;
+   text-shadow: 2px 2px gray;
+}
+
+main {grid-column: 1/4;}
+
+h3 {
+   font-family: "courier", sans-serif;
+   color : blue ;
+   margin-top: 3px;
+   line-height: 1.5em;
+}
+	
