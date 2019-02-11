@@ -57,6 +57,8 @@
 	The <strong>Duanwu Festival</strong>, also often known as the <strong>Dragon Boat Festival</strong>, is a traditional holiday originating in China, occurring near the <a href="https://en.wikipedia.org/wiki/Summer_solstice">summer solstice</a>. It is also known as <strong>Zhongxiao Festival</strong> (<a href="https://en.wikipedia.org/wiki/Traditional_Chinese_characters">Chinese</a>: 忠孝節; <a href="https://en.wikipedia.org/wiki/Pinyin">pinyin</a>: <em>Zhōngxiàojié</em>), commemorating <a href="https://en.wikipedia.org/wiki/Confucianism#Loyalty">fealty</a>and <a href="https://en.wikipedia.org/wiki/Filial_piety">filial piety</a>.
 </p>
 
+<?php include "inc/scripts.inc"; ?>
+
 </body>
 
 </html>

@@ -68,5 +68,6 @@
 
 </body>
 
+<?php include "inc/scripts.inc"; ?>
 
 </html>
