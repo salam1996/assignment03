@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<title>Juliet Ding|Chinese Festivals|Assignment 3</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
+<?php include "inc/html-top.inc";?>
+
 <body class="container">
 <header>
 

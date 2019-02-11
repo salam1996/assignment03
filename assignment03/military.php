@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Leo Koblence|United States Marine Corps|Assignment 3</title>
-  <link rel="stylesheet" href="css/styles.css">
-</head>
+<?php include "inc/nav.inc";?>
+
 <body class="container">
 
 <header>

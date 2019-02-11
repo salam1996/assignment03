@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<title>Sports|Shafieul Alam|Assignment 3</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
+<?php include "inc/nav.inc";?>
+
 <body class="container">
 <header>
 

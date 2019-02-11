@@ -10,6 +10,8 @@
 
 <body>
 
+	<?php include "inc/nav.inc";?>
+
 <h2>Shafieul Alam</h2>
 <figure>
 	<img src="images/shafieul.jpg" alt="shafieul">
