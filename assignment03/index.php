@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<title>Home Page|Assignment 3</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
-<header>
-	<h1>Home</h1>
-</header>
+<?php include "inc/html-top.inc";?>
 
 <body>
 

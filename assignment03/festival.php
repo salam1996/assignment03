@@ -8,6 +8,8 @@
 
 </header>
 
+<?php include "inc/nav.inc";?>
+
 <main>
 	<h2>Chinese New Year</h2>
 

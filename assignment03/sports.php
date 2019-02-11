@@ -1,4 +1,4 @@
-<?php include "inc/nav.inc";?>
+<?php include "inc/html-top.inc";?>
 
 <body class="container">
 <header>
@@ -7,6 +7,8 @@
 	<div>Shafieul Alam</div>
 
 </header>
+
+<?php include "inc/nav.inc";?>
 
 <main>
 	<h2>New England Patriots</h2>

@@ -1,4 +1,4 @@
-<?php include "inc/nav.inc";?>
+<?php include "inc/html-top.inc";?>
 
 <body class="container">
 
@@ -8,6 +8,8 @@
 <div>Leo Koblence</div>
 
 </header>
+
+<?php include "inc/nav.inc";?>
 
 <main>
 
