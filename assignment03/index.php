@@ -8,7 +8,7 @@
 	<h1>Home</h1>
 </header>
 
-<body>
+<body class="container2">
 
 	<?php include "inc/nav.inc";?>
 
