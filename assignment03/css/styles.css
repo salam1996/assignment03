@@ -24,9 +24,9 @@ footer{ grid-column: 1/2
  h2 {
    font-family: Verdana, sans-serif;
    font-style: normal;
-   font weight: 800;
-   border style: outset;
-   border width: thick;
+   font-weight: bold;
+   border-style: outset;
+   border-width: thick;
    color: red;
 }
 
@@ -34,7 +34,7 @@ div {
    max-width: 800px;
    font-size: 16px;
    font-family: Arial, Helvetica, sans-serif;
-   line-height: 1.5em
+   line-height: 1.5em;
    color: black;
 }
 
